@@ -22,7 +22,7 @@
 
   Open the local repository in VS Code, start a new terminal in the vehicle-builder folder (main folder), and enter "npm i" and "npm start" to run the application.
 
-  Video Demonstration: [Vehicle Builder Video Demonstration]([https://drive.google.com/file/d/1s83tteZ-LO5NV7V96ar3l7Kzy3N0XLqt/view](https://drive.google.com/file/d/1-e8iu-pnr7IHCSpM5N3I1lpBUirzQUyv/view))
+  Video Demonstration: [Readme Generator Video Demonstration](https://drive.google.com/file/d/1-e8iu-pnr7IHCSpM5N3I1lpBUirzQUyv/view)
 
   ## Credits
 
